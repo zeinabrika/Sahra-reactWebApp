@@ -48,7 +48,7 @@ function Footer() {
                       SAHRA <i className='fab fa-typo3' />
                   </Link>
                 </div>
-                <small className="website-rights">SAHRA-2021</small>
+                <small className="website-rights"></small>
                 <div className="social-icons">
                     <Link className="social-icon-link facebook"
                         to='/'
